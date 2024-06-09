@@ -1,1 +1,1 @@
-api_key = "AIzaSyDGlTFQ5y9KznTN6sCP7rp_u9DkwBCd-w4"
+api_key = "Use your own Google PaLM API Key Here"
