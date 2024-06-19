@@ -1,7 +1,8 @@
-from langchain.llms import GooglePalm
-from langchain import PromptTemplate, LLMChain
 from langchain.chains import SequentialChain
 from secret_key import api_key
+from langchain_community.llms import GooglePalm
+from langchain_core.prompts import PromptTemplate
+from langchain.chains import LLMChain
 
 llm = GooglePalm(google_api_key = api_key, temperature = 0.6)
 def generate_restaurant_name_and_items(cuisine):
