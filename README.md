@@ -1,9 +1,9 @@
 # **🍲 Naanstop Names 🍲**
 ## No More Name Headaches, Just Naanstop Creations
-### Introduction
+### 📜 Introduction
 Innovative Python web application using LangChain and Streamlit to generate unique names for Indian cuisine restaurants and menu items.
 
-### Note: 
+### 📌 Note: 
 In the "secret_key.py" file, please use your own generated Google PaLM API key to ensure the application runs effectively and efficiently.
 
 ### Output
